@@ -1,1 +1,1 @@
-product managemntstudent# lab-agile-planning
+# lab-agile-planning
